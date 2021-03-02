@@ -9,8 +9,8 @@ The easiest way to apply a policy from this library is to download and apply the
 For example
 
     cd library/general/httpsonly/
-    kubectl apply -f constraint.yaml
     kubectl apply -f template.yaml
+    kubectl apply -f constraint.yaml
 
 ## How to contribute to the library
 
